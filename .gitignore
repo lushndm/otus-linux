@@ -1,2 +1,6 @@
 .vagrant
 *.vdi
+.molecule
+.cache
+.pytest_cache
+.env
