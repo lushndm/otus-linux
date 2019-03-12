@@ -1,8 +1,9 @@
-# Инструкции
+## otus-linux homework repository
 
-* [Как начать Git](git_quick_start.md)
-* [Как начать Vagrant](vagrant_quick_start.md)
+[Kernel](#hw-01-(kernel))
 
-## otus-linux
 
-Используйте этот [Vagrantfile](Vagrantfile) - для тестового стенда.
+### HW-01 (Kernel)
+ - Установили dev пакеты для сборки ядра
+ - Подготовили файл .config с параметрами сборки
+ - Собрали и установили ядро
